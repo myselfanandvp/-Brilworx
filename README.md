@@ -2,4 +2,4 @@
 
 ## link of the sample site i used is : https://brilworx-web.webflow.io/
 
-## link to the page is created : https://anandvp92.github.io/-Brilworx/
+## link to the page is created : https://myselfanandvp.github.io/-Brilworx/
