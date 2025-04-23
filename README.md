@@ -5,3 +5,6 @@
 ## link to the page is created : https://myselfanandvp.github.io/-Brilworx/
 
 ## Screen shot of the orginal website : images/brilworx-web.webflow.io_(laptop).png
+
+
+![Image](https://github.com/user-attachments/assets/5ef63fe6-8256-4048-b93d-91dff475b0b0)
