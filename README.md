@@ -3,3 +3,5 @@
 ## link of the sample site i used is : https://brilworx-web.webflow.io/
 
 ## link to the page is created : https://myselfanandvp.github.io/-Brilworx/
+
+## Screen shot of the orginal website : images/brilworx-web.webflow.io_(laptop).png
